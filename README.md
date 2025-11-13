@@ -1,4 +1,4 @@
-**# Focus-Timer**
+**Focus-Timer**
 
 A simple Pomodoro-style timer built with HTML, CSS, and JavaScript.
 
